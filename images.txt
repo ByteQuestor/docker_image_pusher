@@ -1,1 +1,1 @@
-nginx:latest
+javaspring:1.0
